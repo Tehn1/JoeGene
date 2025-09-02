@@ -1,0 +1,27 @@
+# Ignore virtual environment
+joegeneenv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore IDE/editor files
+.vscode/
+*.swp
+
+# Ignore compiled files
+*.so
+*.dll
+*.exe
+*.o
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore test coverage
+.coverage
+htmlcov/
+
+# Ignore PyQt build files
+*.ui.py
